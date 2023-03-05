@@ -6,4 +6,4 @@ Feito por Eduardo Freitas e Sofia Martins.
 
 Professor Lucas Ferreira.
 
-<img src="./uko.jpg" alt="uko">
+<img src="./uko_chill.jpg" alt="uko">
